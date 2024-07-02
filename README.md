@@ -1,6 +1,6 @@
-## Bem-vindo(a) ao perfil do Leonardo Jose 😁
+## Welcome to Leonardo Renner Profile 😁
 
- <div>
+<div>
    <a href="https://github.com/leonardojfrenner">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardojfrenner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojfrenner&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -14,11 +14,8 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### For programming content, follow me on the platforms below!
  
 <div> 
-  <a href="https://www.linkedin.com/in/leonardo-josé" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-
+  <a href="linkedin.com/in/leonardorenner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
