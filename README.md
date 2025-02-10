@@ -1,11 +1,16 @@
-## Welcome to Leonardo Renner Profile 😁
+## Welcome to My Profile 😁
 
 <div>
    <a href="https://github.com/leonardojfrenner">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardojfrenner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojfrenner&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
+
+ ### 🤖 Data Science
+ 💡 My focus is on Machine Learning, Deep Learning, and AI applications.
+
+  ### 📊 ML Technologies
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,scikit-learn,jupyter" /> </a> </p>
 
  ### Cloud
 <p style="display: inline-block">
@@ -13,42 +18,21 @@
     <img src="https://skillicons.dev/icons?i=git,docker,terraform,linux,aws,azure,gcp" />
   </a>
 </p>
-<br>
 
 
- ### Data
+ ### DataBase
 <p style="display: inline-block">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </a>
 </p>
-<br>
-
-### Programming Languages
-<p style="display: inline-block">
-  <!-- Linguagens de Programação -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,cs,cpp,java,js,kotlin,html" />
-  </a>
-</p>
-<br>
-
-
- ### Frameworks and Libraries
-<p style="display: inline-block">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,django,flutter,spring" />
-  </a>
-</p>
-<br>
 
  ### IDE
 <p style="display: inline-block">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio,vim" />
+    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio" />
   </a>
 </p>
-<br>
 
   ### For programming content, follow me on the platforms below!
  
