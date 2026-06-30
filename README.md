@@ -1,41 +1,104 @@
-## Welcome to My Profile 😁
+# 👋 Hi, I'm Leonardo Renner
 
-<div>
-   <a href="https://github.com/leonardojfrenner">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardojfrenner&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojfrenner&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+### AI Engineer | Multi-Agent Systems | Full Stack Developer
 
- ### 🤖 Data Science
- 💡 My focus is on Machine Learning, Deep Learning, and AI applications.
+I'm passionate about building AI-powered products, autonomous agents, and local-first intelligence systems.
 
-  ### 📊 ML Technologies
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,scikit-learn,jupyter" /> </a> </p>
+Currently focused on:
 
- ### Cloud
-<p style="display: inline-block">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,terraform,linux,aws,azure,gcp" />
-  </a>
+* 🤖 Multi-Agent Architectures
+* 🧠 LLMs and Local AI
+* 💾 Memory Systems for Agents
+* 🔍 RAG and Knowledge Retrieval
+* ⚡ AI Product Engineering
+* 🌐 Full Stack Development
+* 🏗️ Software Architecture
+
+---
+
+## 🚀 Current Project
+
+### GenESIS
+
+An AI operating system designed to coordinate specialized agents that collaborate, reason, remember, and execute tasks as a team.
+
+Main areas of exploration:
+
+* Agent communication
+* Long-term memory
+* Task orchestration
+* Local LLM execution
+* Code understanding
+* Autonomous workflows
+
+---
+
+## 🛠️ Tech Stack
+
+### AI & LLMs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
+**Also working with:**
 
- ### DataBase
-<p style="display: inline-block">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  </a>
+* Llama
+* Qwen
+* DeepSeek
+* Ollama
+* LangGraph
+* LangChain
+* MCP
+* RAG
+* Vector Databases
+
+---
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" />
 </p>
 
- ### IDE
-<p style="display: inline-block">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,idea,visualstudio,vscode,androidstudio" />
-  </a>
+---
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react,html,css" />
 </p>
 
-  ### For programming content, follow me on the platforms below!
- 
-<div> 
-  <a href="https://www.linkedin.com/in/leonardorenner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,aws" />
+</p>
+
+---
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Agent Architectures
+* Quantization Techniques
+* Local AI Deployment
+* Memory Systems for Autonomous Agents
+* AI Product Design
+
+---
+
+## 🌎 Connect With Me
+
+* LinkedIn: linkedin.com/in/leonardorenner
+
+Always exploring how software and AI can work together to create intelligent systems.
