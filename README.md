@@ -14,24 +14,6 @@ Currently focused on:
 * 🌐 Full Stack Development
 * 🏗️ Software Architecture
 
----
-
-## 🚀 Current Project
-
-### GenESIS
-
-An AI operating system designed to coordinate specialized agents that collaborate, reason, remember, and execute tasks as a team.
-
-Main areas of exploration:
-
-* Agent communication
-* Long-term memory
-* Task orchestration
-* Local LLM execution
-* Code understanding
-* Autonomous workflows
-
----
 
 ## 🛠️ Tech Stack
 
